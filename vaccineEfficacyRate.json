@@ -1,0 +1,27 @@
+[
+    {
+        "brand": "Pullisic",
+        "efficacy": 60,
+        "origin": "America"
+    },
+    {
+        "brand": "Grealish",
+        "efficacy": 70,
+        "origin": "England"
+    },
+    {
+        "brand": "Muller",
+        "efficacy": 80,
+        "origin": "Germany"
+    },
+    {
+        "brand": "Mbappe",
+        "efficacy": 75,
+        "origin": "France"
+    },
+    {
+        "brand": "Vladmir",
+        "efficacy": 90,
+        "origin": "Russia"
+    }
+]

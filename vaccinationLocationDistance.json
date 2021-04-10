@@ -1,0 +1,22 @@
+[
+    {
+        "location": "Location 1",
+        "distance": 10
+    },
+    {
+        "location": "Location 2",
+        "distance": 16
+    },
+    {
+        "location": "Location 3",
+        "distance": 8
+    },
+    {
+        "location": "Location 4",
+        "distance": 6
+    },
+    {
+        "location": "Location 5",
+        "distance": 12
+    }
+]
